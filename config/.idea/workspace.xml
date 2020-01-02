@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a24b8d4e-100f-4272-8096-d9965eea51ba" name="Default Changelist" comment="" />
+    <list default="true" id="a24b8d4e-100f-4272-8096-d9965eea51ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +14,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\SpringCloudCodes\config\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -20,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Vq1UCD0OdlwVxiGazIMZinS0aQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577965824399</updated>
-      <workItem from="1577965829127" duration="625000" />
+      <workItem from="1577965829127" duration="1358000" />
     </task>
     <servers />
   </component>
@@ -69,6 +82,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="150" y="41" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1577965833340" />
+    <state x="105" y="0" key="CommitChangelistDialog2" timestamp="1577967715999">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="105" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1577967715999" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1577965843492">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
