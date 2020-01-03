@@ -5,6 +5,7 @@
       <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -70,25 +71,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577965824399</updated>
-      <workItem from="1577965829127" duration="1358000" />
+      <workItem from="1577965829127" duration="3633000" />
+      <workItem from="1577972458253" duration="977000" />
+      <workItem from="1578011457843" duration="1445000" />
     </task>
+    <task id="LOCAL-00001" summary="jinmo">
+      <created>1577967746866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577967746866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jinmo" />
+    <option name="LAST_COMMIT_MESSAGE" value="jinmo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="150" y="41" key="#Project_Structure" timestamp="1577965833340">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="150" y="41" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1577965833340" />
-    <state x="105" y="0" key="CommitChangelistDialog2" timestamp="1577967715999">
+    <state x="105" y="0" key="CommitChangelistDialog2" timestamp="1577967739665">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="105" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1577967715999" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1577965843492">
+    <state x="105" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1577967739665" />
+    <state x="323" y="81" key="NewModule_or_Project.wizard" timestamp="1577968033723">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1577965843492" />
+    <state x="323" y="81" key="NewModule_or_Project.wizard/0.0.1366.768@0.0.1366.768" timestamp="1577968033723" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1578018991316">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1578018991316" />
+    <state x="57" y="108" key="new project wizard" timestamp="1577974233587">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="57" y="108" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1577974233587" />
   </component>
 </project>
