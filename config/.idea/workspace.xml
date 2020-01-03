@@ -5,6 +5,9 @@
       <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp02-itemservice/src/main/resources/ bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp03-userservice/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp11-zuul/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +16,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jinmo" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IgnoredFileRootStore">
@@ -73,7 +81,7 @@
       <workItem from="1577965829127" duration="3633000" />
       <workItem from="1577972458253" duration="977000" />
       <workItem from="1578011457843" duration="1445000" />
-      <workItem from="1578019035042" duration="297000" />
+      <workItem from="1578019035042" duration="2598000" />
     </task>
     <task id="LOCAL-00001" summary="jinmo">
       <created>1577967746866</created>
@@ -89,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578019093243</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="jinmo">
+      <created>1578019417132</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578019417132</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,10 +119,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="150" y="41" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1577965833340" />
-    <state x="105" y="0" key="CommitChangelistDialog2" timestamp="1578019091575">
+    <state x="105" y="0" width="1119" height="768" key="CommitChangelistDialog2" timestamp="1578019415566">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="105" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1578019091575" />
+    <state x="105" y="0" width="1119" height="768" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1578019415566" />
     <state x="323" y="81" key="NewModule_or_Project.wizard" timestamp="1577968033723">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -116,6 +131,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1578018991316" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1578019437494">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1578019437494" />
     <state x="347" y="107" key="git4idea.merge.GitPullDialog" timestamp="1578019288699">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
